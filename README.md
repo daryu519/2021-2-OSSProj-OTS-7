@@ -1,5 +1,5 @@
 # 2021-2-OSSProj-OTS-7
-온라인 테트리미노(like Tetris) 게임. 
+온라인 테트리미노(like Tetris) 게임
 
 클라이언트, 멀티플레이어 서버, 웹으로 구성된 프로젝트입니다.
 ## Teams OTS
